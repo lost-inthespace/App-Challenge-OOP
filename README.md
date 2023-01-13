@@ -6,3 +6,9 @@ https://youtu.be/jI1S7AxrSNw
 
 Testing the App in IOS
 https://youtube.com/shorts/TI6InHzSrRg?feature=share
+
+Sources
+Apple: https://developer.apple.com/swift/
+satr: https://satr.codes
+Swift: https://www.swift.org
+ChatGPT
