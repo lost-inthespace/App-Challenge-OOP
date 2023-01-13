@@ -9,7 +9,7 @@ Testing the App in IOS
 
 https://youtube.com/shorts/TI6InHzSrRg?feature=share
 
--
+--
 Sources
 
 Apple: https://developer.apple.com/swift/
@@ -22,7 +22,7 @@ stackoverflow: https://stackoverflow.com
 
 ChatGPT
 
--
+--
 imported Package for Confetti
 
 https://github.com/simibac/ConfettiSwiftUI
