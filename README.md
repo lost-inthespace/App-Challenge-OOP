@@ -9,7 +9,7 @@ https://youtu.be/jI1S7AxrSNw
 
 https://youtube.com/shorts/TI6InHzSrRg?feature=share
 
-##Sources
+## Sources
 
 Apple: https://developer.apple.com/swift/
 
@@ -21,7 +21,6 @@ stackoverflow: https://stackoverflow.com
 
 ChatGPT
 
---
-##Confetti Package
+## Confetti Package
 
 https://github.com/simibac/ConfettiSwiftUI
