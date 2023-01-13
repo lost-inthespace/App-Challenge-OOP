@@ -1,16 +1,15 @@
 # App-Challenge-OOP
 The folder and codes are implement in the file above
 
-Testing the App in Mac os
+#Testing the App in Mac os
 
 https://youtu.be/jI1S7AxrSNw
 
-Testing the App in IOS
+#Testing the App in IOS
 
 https://youtube.com/shorts/TI6InHzSrRg?feature=share
 
---
-Sources
+##Sources
 
 Apple: https://developer.apple.com/swift/
 
@@ -23,6 +22,6 @@ stackoverflow: https://stackoverflow.com
 ChatGPT
 
 --
-imported Package for Confetti
+##Confetti Package
 
 https://github.com/simibac/ConfettiSwiftUI
