@@ -12,3 +12,6 @@ Apple: https://developer.apple.com/swift/
 satr: https://satr.codes
 Swift: https://www.swift.org
 ChatGPT
+
+imported Package for Confetti
+https://github.com/simibac/ConfettiSwiftUI
